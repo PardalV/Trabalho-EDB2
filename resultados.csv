@@ -1,0 +1,13 @@
+algoritmo,n,tempo_medio_s
+InsertionSort, 1000, 0.00139180
+InsertionSort, 5000, 0.02599080
+InsertionSort, 10000, 0.10702800
+InsertionSort, 15000, 0.24197640
+InsertionSort, 20000, 0.45510960
+InsertionSort, 25000, 0.69759440
+MergeSort, 1000, 0.00020880
+MergeSort, 5000, 0.00134260
+MergeSort, 10000, 0.00294340
+MergeSort, 15000, 0.00446440
+MergeSort, 20000, 0.00565300
+MergeSort, 25000, 0.00868700
