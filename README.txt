@@ -1,10 +1,6 @@
 =========================================================
 PROJETO: Análise Empírica de Complexidade de Algoritmos
 =========================================================
-
-Autor: Vinícius Dantas Rodrigues
-Data: 19 de setembro de 2025
-
 ---------------------------------------------------------
 
 1. DESCRIÇÃO
