@@ -56,7 +56,7 @@ int main(){
             double tempo_medio = tempo_total / REPETICOES;
             //Imprime a linha de resultado em formato CSV
             printf("%s, %d, %.8f\n", nomes_algoritmos[i], n, tempo_medio);
-
+            // Para executar o programa e exportar o arquivo CSV deve fazer o seguinte: ./meu_programa > resultados.csv 
         }
     }
     //printf("Finalizado\n");
